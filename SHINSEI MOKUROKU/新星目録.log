@@ -1,0 +1,238 @@
+X Lossless Decoder version 20240511 (157.1)
+
+XLD extraction logfile from 2025-01-21 12:10:25 +0900
+
+星街すいせい / 新星目録
+
+Used drive : HL-DT-ST BD-RE  BH16NS60 (revision 1.02)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:36:47 |         0    |    20746   
+        2  | 04:36:47 | 02:44:47 |     20747    |    33093   
+        3  | 07:21:19 | 03:17:29 |     33094    |    47897   
+        4  | 10:38:48 | 02:49:67 |     47898    |    60639   
+        5  | 13:28:40 | 02:59:56 |     60640    |    74120   
+        6  | 16:28:21 | 03:00:56 |     74121    |    87676   
+        7  | 19:29:02 | 03:24:69 |     87677    |   103045   
+        8  | 22:53:71 | 02:38:00 |    103046    |   114895   
+        9  | 25:31:71 | 04:12:28 |    114896    |   133823   
+       10  | 29:44:24 | 04:58:48 |    133824    |   156221   
+       11  | 34:42:72 | 03:46:35 |    156222    |   173206   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Album gain               : -10.84 dB
+    Peak                     : 0.959229
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Volumes/Bookshelves/[250122] 星街すいせい - 新星目録/01 先駆者.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -11.44 dB
+    Peak                     : 0.954437
+    CRC32 hash (test run)    : 1FC9216D
+    CRC32 hash               : 1FC9216D
+    CRC32 hash (skip zero)   : B6470C67
+    AccurateRip v1 signature : 2692AE3C
+    AccurateRip v2 signature : 6239C8A5
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Volumes/Bookshelves/[250122] 星街すいせい - 新星目録/02 ビビデバ.flac
+
+    Track gain               : -10.88 dB
+    Peak                     : 0.957062
+    CRC32 hash (test run)    : A5F3DC38
+    CRC32 hash               : A5F3DC38
+    CRC32 hash (skip zero)   : 6FEDA14F
+    AccurateRip v1 signature : 8DA54B5C
+    AccurateRip v2 signature : ECE2C872
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Volumes/Bookshelves/[250122] 星街すいせい - 新星目録/03 AWAKE.flac
+
+    Track gain               : -11.94 dB
+    Peak                     : 0.957214
+    CRC32 hash (test run)    : AF8A7569
+    CRC32 hash               : AF8A7569
+    CRC32 hash (skip zero)   : E8A3BB76
+    AccurateRip v1 signature : 9AE64999
+    AccurateRip v2 signature : BB8890C9
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Volumes/Bookshelves/[250122] 星街すいせい - 新星目録/04 ビーナスバグ.flac
+
+    Track gain               : -11.87 dB
+    Peak                     : 0.914703
+    CRC32 hash (test run)    : EBB87FBD
+    CRC32 hash               : EBB87FBD
+    CRC32 hash (skip zero)   : D46A0F5F
+    AccurateRip v1 signature : 77870431
+    AccurateRip v2 signature : A023028F
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Volumes/Bookshelves/[250122] 星街すいせい - 新星目録/05 Caramel Pain.flac
+
+    Track gain               : -11.72 dB
+    Peak                     : 0.959229
+    CRC32 hash (test run)    : D72BCF1B
+    CRC32 hash               : D72BCF1B
+    CRC32 hash (skip zero)   : 979828D5
+    AccurateRip v1 signature : D238A487
+    AccurateRip v2 signature : E58D8B65
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Volumes/Bookshelves/[250122] 星街すいせい - 新星目録/06 ムーンライト.flac
+
+    Track gain               : -8.62 dB
+    Peak                     : 0.936981
+    CRC32 hash (test run)    : 6BBC3CAB
+    CRC32 hash               : 6BBC3CAB
+    CRC32 hash (skip zero)   : 1A2062E9
+    AccurateRip v1 signature : 188FB7B3
+    AccurateRip v2 signature : E32BDF1F
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Volumes/Bookshelves/[250122] 星街すいせい - 新星目録/07 DEADPOOL feat.花譜.flac
+
+    Track gain               : -7.36 dB
+    Peak                     : 0.939392
+    CRC32 hash (test run)    : C1744911
+    CRC32 hash               : C1744911
+    CRC32 hash (skip zero)   : B389B286
+    AccurateRip v1 signature : 0AD8B3D6
+    AccurateRip v2 signature : 635DB826
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Volumes/Bookshelves/[250122] 星街すいせい - 新星目録/08 レクイエム (星街すいせい ver.).flac
+
+    Track gain               : -10.49 dB
+    Peak                     : 0.953613
+    CRC32 hash (test run)    : A4ED613B
+    CRC32 hash               : A4ED613B
+    CRC32 hash (skip zero)   : F1D01254
+    AccurateRip v1 signature : 88478C41
+    AccurateRip v2 signature : 1EE340C7
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Volumes/Bookshelves/[250122] 星街すいせい - 新星目録/09 ザイオン.flac
+
+    Track gain               : -10.49 dB
+    Peak                     : 0.949097
+    CRC32 hash (test run)    : FCFF6651
+    CRC32 hash               : FCFF6651
+    CRC32 hash (skip zero)   : 46B53DCC
+    AccurateRip v1 signature : 532CB1ED
+    AccurateRip v2 signature : 7F91C668
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Volumes/Bookshelves/[250122] 星街すいせい - 新星目録/10 繭と心.flac
+
+    Track gain               : -10.66 dB
+    Peak                     : 0.943756
+    CRC32 hash (test run)    : 524FAC90
+    CRC32 hash               : 524FAC90
+    CRC32 hash (skip zero)   : 5FF0A585
+    AccurateRip v1 signature : CC91574D
+    AccurateRip v2 signature : 41AF4C08
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Volumes/Bookshelves/[250122] 星街すいせい - 新星目録/11 綺麗事.flac
+
+    Track gain               : -11.19 dB
+    Peak                     : 0.947632
+    CRC32 hash (test run)    : F80FF8C9
+    CRC32 hash               : F80FF8C9
+    CRC32 hash (skip zero)   : EE4CF488
+    AccurateRip v1 signature : 09DCACEE
+    AccurateRip v2 signature : ACA9406C
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+QtDB3CjWTZ18c_9JqStLr940ObZxm4qnbygucaKJkrOA9jW3OpGLZj8wm6f992uJrJOAZl6DX7wt5yvYvNI9ackSxnOrnYoySR19aGq
+-----END XLD SIGNATURE-----
